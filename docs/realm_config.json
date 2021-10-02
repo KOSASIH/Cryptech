@@ -1,0 +1,8 @@
+{
+    "app_id": "cryptech-bmwok",
+    "config_version": 20210101,
+    "name": "Cryptech",
+    "location": "SG",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
