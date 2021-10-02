@@ -1,7 +1,7 @@
 {
-    "app_id": "cryptech-bmwok",
+    "app_id": "cryptwallet-idavf",
     "config_version": 20210101,
-    "name": "Cryptech",
+    "name": "Cryptwallet",
     "location": "SG",
     "deployment_model": "LOCAL",
     "environment": "production"
