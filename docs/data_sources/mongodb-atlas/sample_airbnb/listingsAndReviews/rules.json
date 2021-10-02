@@ -1,0 +1,18 @@
+{
+    "collection": "listingsAndReviews",
+    "database": "sample_airbnb",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "Cryptwallet Collections": "%%user.id"
+            },
+            "read": true,
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
